@@ -1,0 +1,979 @@
+# Copyright (C) 2022 WP Map Plugins
+# This file is distributed under the same license as the WP Map Plugins package.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WP "
+"Map Plugins\n"
+"Report-Msgid-Bugs-To: "
+"WPMapPlugins "
+"<wpmapplugins@gmail."
+"com>\n"
+"POT-Creation-Date: "
+"2023-07-07 21:35+0300\n"
+"PO-Revision-Date: \n"
+"Last-Translator: "
+"WPMapPlugins "
+"<wpmapplugins@gmail."
+"com>\n"
+"Language-Team: "
+"WPMapPlugins "
+"<wpmapplugins@gmail."
+"com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/"
+"plain; charset=UTF-8\n"
+"Content-Transfer-"
+"Encoding: 8bit\n"
+"Plural-Forms: "
+"nplurals=2; plural=n != "
+"1;\n"
+"X-Textdomain-Support: "
+"yesX-Generator: Poedit "
+"1.6.4\n"
+"X-Poedit-SourceCharset: "
+"UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;esc_html_e;"
+"esc_html_x:1,2c;"
+"esc_html__;esc_attr_e;"
+"esc_attr_x:1,2c;"
+"esc_attr__;_ex:1,2c;"
+"_nx:4c,1,2;"
+"_nx_noop:4c,1,2;_x:1,2c;"
+"_n:1,2;_n_noop:1,2;"
+"__ngettext:1,2;"
+"__ngettext_noop:1,2;_c,"
+"_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 3.1\n"
+"X-Poedit-"
+"SearchPath-0: .\n"
+"X-Poedit-"
+"SearchPathExcluded-0: "
+"public\n"
+
+#: includes/admin.php:7
+msgid ""
+"Insert this shortcode "
+msgstr ""
+
+#: includes/admin.php:7
+msgid ""
+"in any page or post to "
+"display the map."
+msgstr ""
+
+#: includes/admin.php:7
+msgid "Save Changes"
+msgstr ""
+
+#: includes/admin.php:21
+msgid "General Settings"
+msgstr ""
+
+#: includes/admin.php:23
+msgid "Border Color"
+msgstr ""
+
+#: includes/admin.php:26
+msgid "Show the Names"
+msgstr ""
+
+#: includes/admin.php:29
+msgid "Names Color"
+msgstr ""
+
+#: includes/admin.php:32
+msgid "Names Hover Color"
+msgstr ""
+
+#: includes/admin.php:42
+msgid "Settings"
+msgstr ""
+
+#: includes/admin.php:45
+msgid "ALBANY"
+msgstr ""
+
+#: includes/admin.php:46
+#: includes/admin.php:68
+#: includes/admin.php:90
+#: includes/admin.php:112
+#: includes/admin.php:134
+#: includes/admin.php:156
+#: includes/admin.php:178
+#: includes/admin.php:200
+#: includes/admin.php:222
+#: includes/admin.php:244
+#: includes/admin.php:266
+#: includes/admin.php:288
+#: includes/admin.php:310
+#: includes/admin.php:332
+#: includes/admin.php:354
+#: includes/admin.php:376
+#: includes/admin.php:398
+#: includes/admin.php:420
+#: includes/admin.php:442
+#: includes/admin.php:464
+#: includes/admin.php:486
+#: includes/admin.php:508
+#: includes/admin.php:530
+#: includes/admin.php:552
+#: includes/admin.php:574
+#: includes/admin.php:596
+#: includes/admin.php:618
+#: includes/admin.php:640
+#: includes/admin.php:662
+#: includes/admin.php:684
+#: includes/admin.php:706
+#: includes/admin.php:728
+#: includes/admin.php:750
+#: includes/admin.php:772
+#: includes/admin.php:794
+#: includes/admin.php:816
+#: includes/admin.php:838
+#: includes/admin.php:860
+#: includes/admin.php:882
+#: includes/admin.php:904
+#: includes/admin.php:926
+#: includes/admin.php:948
+#: includes/admin.php:970
+#: includes/admin.php:992
+#: includes/admin.php:1014
+#: includes/admin.php:1036
+#: includes/admin.php:1058
+#: includes/admin.php:1080
+#: includes/admin.php:1102
+#: includes/admin.php:1124
+#: includes/admin.php:1146
+#: includes/admin.php:1168
+#: includes/admin.php:1190
+#: includes/admin.php:1212
+#: includes/admin.php:1234
+#: includes/admin.php:1256
+#: includes/admin.php:1278
+#: includes/admin.php:1300
+#: includes/admin.php:1322
+#: includes/admin.php:1344
+#: includes/admin.php:1366
+#: includes/admin.php:1388
+msgid "Active"
+msgstr ""
+
+#: includes/admin.php:49
+#: includes/admin.php:71
+#: includes/admin.php:93
+#: includes/admin.php:115
+#: includes/admin.php:137
+#: includes/admin.php:159
+#: includes/admin.php:181
+#: includes/admin.php:203
+#: includes/admin.php:225
+#: includes/admin.php:247
+#: includes/admin.php:269
+#: includes/admin.php:291
+#: includes/admin.php:313
+#: includes/admin.php:335
+#: includes/admin.php:357
+#: includes/admin.php:379
+#: includes/admin.php:401
+#: includes/admin.php:423
+#: includes/admin.php:445
+#: includes/admin.php:467
+#: includes/admin.php:489
+#: includes/admin.php:511
+#: includes/admin.php:533
+#: includes/admin.php:555
+#: includes/admin.php:577
+#: includes/admin.php:599
+#: includes/admin.php:621
+#: includes/admin.php:643
+#: includes/admin.php:665
+#: includes/admin.php:687
+#: includes/admin.php:709
+#: includes/admin.php:731
+#: includes/admin.php:753
+#: includes/admin.php:775
+#: includes/admin.php:797
+#: includes/admin.php:819
+#: includes/admin.php:841
+#: includes/admin.php:863
+#: includes/admin.php:885
+#: includes/admin.php:907
+#: includes/admin.php:929
+#: includes/admin.php:951
+#: includes/admin.php:973
+#: includes/admin.php:995
+#: includes/admin.php:1017
+#: includes/admin.php:1039
+#: includes/admin.php:1061
+#: includes/admin.php:1083
+#: includes/admin.php:1105
+#: includes/admin.php:1127
+#: includes/admin.php:1149
+#: includes/admin.php:1171
+#: includes/admin.php:1193
+#: includes/admin.php:1215
+#: includes/admin.php:1237
+#: includes/admin.php:1259
+#: includes/admin.php:1281
+#: includes/admin.php:1303
+#: includes/admin.php:1325
+#: includes/admin.php:1347
+#: includes/admin.php:1369
+#: includes/admin.php:1391
+#: includes/admin.php:1418
+msgid "Up Color"
+msgstr ""
+
+#: includes/admin.php:50
+#: includes/admin.php:72
+#: includes/admin.php:94
+#: includes/admin.php:116
+#: includes/admin.php:138
+#: includes/admin.php:160
+#: includes/admin.php:182
+#: includes/admin.php:204
+#: includes/admin.php:226
+#: includes/admin.php:248
+#: includes/admin.php:270
+#: includes/admin.php:292
+#: includes/admin.php:314
+#: includes/admin.php:336
+#: includes/admin.php:358
+#: includes/admin.php:380
+#: includes/admin.php:402
+#: includes/admin.php:424
+#: includes/admin.php:446
+#: includes/admin.php:468
+#: includes/admin.php:490
+#: includes/admin.php:512
+#: includes/admin.php:534
+#: includes/admin.php:556
+#: includes/admin.php:578
+#: includes/admin.php:600
+#: includes/admin.php:622
+#: includes/admin.php:644
+#: includes/admin.php:666
+#: includes/admin.php:688
+#: includes/admin.php:710
+#: includes/admin.php:732
+#: includes/admin.php:754
+#: includes/admin.php:776
+#: includes/admin.php:798
+#: includes/admin.php:820
+#: includes/admin.php:842
+#: includes/admin.php:864
+#: includes/admin.php:886
+#: includes/admin.php:908
+#: includes/admin.php:930
+#: includes/admin.php:952
+#: includes/admin.php:974
+#: includes/admin.php:996
+#: includes/admin.php:1018
+#: includes/admin.php:1040
+#: includes/admin.php:1062
+#: includes/admin.php:1084
+#: includes/admin.php:1106
+#: includes/admin.php:1128
+#: includes/admin.php:1150
+#: includes/admin.php:1172
+#: includes/admin.php:1194
+#: includes/admin.php:1216
+#: includes/admin.php:1238
+#: includes/admin.php:1260
+#: includes/admin.php:1282
+#: includes/admin.php:1304
+#: includes/admin.php:1326
+#: includes/admin.php:1348
+#: includes/admin.php:1370
+#: includes/admin.php:1392
+#: includes/admin.php:1419
+msgid "Hover Color"
+msgstr ""
+
+#: includes/admin.php:51
+#: includes/admin.php:73
+#: includes/admin.php:95
+#: includes/admin.php:117
+#: includes/admin.php:139
+#: includes/admin.php:161
+#: includes/admin.php:183
+#: includes/admin.php:205
+#: includes/admin.php:227
+#: includes/admin.php:249
+#: includes/admin.php:271
+#: includes/admin.php:293
+#: includes/admin.php:315
+#: includes/admin.php:337
+#: includes/admin.php:359
+#: includes/admin.php:381
+#: includes/admin.php:403
+#: includes/admin.php:425
+#: includes/admin.php:447
+#: includes/admin.php:469
+#: includes/admin.php:491
+#: includes/admin.php:513
+#: includes/admin.php:535
+#: includes/admin.php:557
+#: includes/admin.php:579
+#: includes/admin.php:601
+#: includes/admin.php:623
+#: includes/admin.php:645
+#: includes/admin.php:667
+#: includes/admin.php:689
+#: includes/admin.php:711
+#: includes/admin.php:733
+#: includes/admin.php:755
+#: includes/admin.php:777
+#: includes/admin.php:799
+#: includes/admin.php:821
+#: includes/admin.php:843
+#: includes/admin.php:865
+#: includes/admin.php:887
+#: includes/admin.php:909
+#: includes/admin.php:931
+#: includes/admin.php:953
+#: includes/admin.php:975
+#: includes/admin.php:997
+#: includes/admin.php:1019
+#: includes/admin.php:1041
+#: includes/admin.php:1063
+#: includes/admin.php:1085
+#: includes/admin.php:1107
+#: includes/admin.php:1129
+#: includes/admin.php:1151
+#: includes/admin.php:1173
+#: includes/admin.php:1195
+#: includes/admin.php:1217
+#: includes/admin.php:1239
+#: includes/admin.php:1261
+#: includes/admin.php:1283
+#: includes/admin.php:1305
+#: includes/admin.php:1327
+#: includes/admin.php:1349
+#: includes/admin.php:1371
+#: includes/admin.php:1393
+#: includes/admin.php:1420
+msgid "Click Color"
+msgstr ""
+
+#: includes/admin.php:54
+#: includes/admin.php:76
+#: includes/admin.php:98
+#: includes/admin.php:120
+#: includes/admin.php:142
+#: includes/admin.php:164
+#: includes/admin.php:186
+#: includes/admin.php:208
+#: includes/admin.php:230
+#: includes/admin.php:252
+#: includes/admin.php:274
+#: includes/admin.php:296
+#: includes/admin.php:318
+#: includes/admin.php:340
+#: includes/admin.php:362
+#: includes/admin.php:384
+#: includes/admin.php:406
+#: includes/admin.php:428
+#: includes/admin.php:450
+#: includes/admin.php:472
+#: includes/admin.php:494
+#: includes/admin.php:516
+#: includes/admin.php:538
+#: includes/admin.php:560
+#: includes/admin.php:582
+#: includes/admin.php:604
+#: includes/admin.php:626
+#: includes/admin.php:648
+#: includes/admin.php:670
+#: includes/admin.php:692
+#: includes/admin.php:714
+#: includes/admin.php:736
+#: includes/admin.php:758
+#: includes/admin.php:780
+#: includes/admin.php:802
+#: includes/admin.php:824
+#: includes/admin.php:846
+#: includes/admin.php:868
+#: includes/admin.php:890
+#: includes/admin.php:912
+#: includes/admin.php:934
+#: includes/admin.php:956
+#: includes/admin.php:978
+#: includes/admin.php:1000
+#: includes/admin.php:1022
+#: includes/admin.php:1044
+#: includes/admin.php:1066
+#: includes/admin.php:1088
+#: includes/admin.php:1110
+#: includes/admin.php:1132
+#: includes/admin.php:1154
+#: includes/admin.php:1176
+#: includes/admin.php:1198
+#: includes/admin.php:1220
+#: includes/admin.php:1242
+#: includes/admin.php:1264
+#: includes/admin.php:1286
+#: includes/admin.php:1308
+#: includes/admin.php:1330
+#: includes/admin.php:1352
+#: includes/admin.php:1374
+#: includes/admin.php:1396
+#: includes/admin.php:1428
+msgid "Link"
+msgstr ""
+
+#: includes/admin.php:55
+#: includes/admin.php:77
+#: includes/admin.php:99
+#: includes/admin.php:121
+#: includes/admin.php:143
+#: includes/admin.php:165
+#: includes/admin.php:187
+#: includes/admin.php:209
+#: includes/admin.php:231
+#: includes/admin.php:253
+#: includes/admin.php:275
+#: includes/admin.php:297
+#: includes/admin.php:319
+#: includes/admin.php:341
+#: includes/admin.php:363
+#: includes/admin.php:385
+#: includes/admin.php:407
+#: includes/admin.php:429
+#: includes/admin.php:451
+#: includes/admin.php:473
+#: includes/admin.php:495
+#: includes/admin.php:517
+#: includes/admin.php:539
+#: includes/admin.php:561
+#: includes/admin.php:583
+#: includes/admin.php:605
+#: includes/admin.php:627
+#: includes/admin.php:649
+#: includes/admin.php:671
+#: includes/admin.php:693
+#: includes/admin.php:715
+#: includes/admin.php:737
+#: includes/admin.php:759
+#: includes/admin.php:781
+#: includes/admin.php:803
+#: includes/admin.php:825
+#: includes/admin.php:847
+#: includes/admin.php:869
+#: includes/admin.php:891
+#: includes/admin.php:913
+#: includes/admin.php:935
+#: includes/admin.php:957
+#: includes/admin.php:979
+#: includes/admin.php:1001
+#: includes/admin.php:1023
+#: includes/admin.php:1045
+#: includes/admin.php:1067
+#: includes/admin.php:1089
+#: includes/admin.php:1111
+#: includes/admin.php:1133
+#: includes/admin.php:1155
+#: includes/admin.php:1177
+#: includes/admin.php:1199
+#: includes/admin.php:1221
+#: includes/admin.php:1243
+#: includes/admin.php:1265
+#: includes/admin.php:1287
+#: includes/admin.php:1309
+#: includes/admin.php:1331
+#: includes/admin.php:1353
+#: includes/admin.php:1375
+#: includes/admin.php:1397
+#: includes/admin.php:1429
+msgid "Target"
+msgstr ""
+
+#: includes/admin.php:57
+#: includes/admin.php:79
+#: includes/admin.php:101
+#: includes/admin.php:123
+#: includes/admin.php:145
+#: includes/admin.php:167
+#: includes/admin.php:189
+#: includes/admin.php:211
+#: includes/admin.php:233
+#: includes/admin.php:255
+#: includes/admin.php:277
+#: includes/admin.php:299
+#: includes/admin.php:321
+#: includes/admin.php:343
+#: includes/admin.php:365
+#: includes/admin.php:387
+#: includes/admin.php:409
+#: includes/admin.php:431
+#: includes/admin.php:453
+#: includes/admin.php:475
+#: includes/admin.php:497
+#: includes/admin.php:519
+#: includes/admin.php:541
+#: includes/admin.php:563
+#: includes/admin.php:585
+#: includes/admin.php:607
+#: includes/admin.php:629
+#: includes/admin.php:651
+#: includes/admin.php:673
+#: includes/admin.php:695
+#: includes/admin.php:717
+#: includes/admin.php:739
+#: includes/admin.php:761
+#: includes/admin.php:783
+#: includes/admin.php:805
+#: includes/admin.php:827
+#: includes/admin.php:849
+#: includes/admin.php:871
+#: includes/admin.php:893
+#: includes/admin.php:915
+#: includes/admin.php:937
+#: includes/admin.php:959
+#: includes/admin.php:981
+#: includes/admin.php:1003
+#: includes/admin.php:1025
+#: includes/admin.php:1047
+#: includes/admin.php:1069
+#: includes/admin.php:1091
+#: includes/admin.php:1113
+#: includes/admin.php:1135
+#: includes/admin.php:1157
+#: includes/admin.php:1179
+#: includes/admin.php:1201
+#: includes/admin.php:1223
+#: includes/admin.php:1245
+#: includes/admin.php:1267
+#: includes/admin.php:1289
+#: includes/admin.php:1311
+#: includes/admin.php:1333
+#: includes/admin.php:1355
+#: includes/admin.php:1377
+#: includes/admin.php:1399
+#: includes/admin.php:1431
+msgid "Same Page"
+msgstr ""
+
+#: includes/admin.php:58
+#: includes/admin.php:80
+#: includes/admin.php:102
+#: includes/admin.php:124
+#: includes/admin.php:146
+#: includes/admin.php:168
+#: includes/admin.php:190
+#: includes/admin.php:212
+#: includes/admin.php:234
+#: includes/admin.php:256
+#: includes/admin.php:278
+#: includes/admin.php:300
+#: includes/admin.php:322
+#: includes/admin.php:344
+#: includes/admin.php:366
+#: includes/admin.php:388
+#: includes/admin.php:410
+#: includes/admin.php:432
+#: includes/admin.php:454
+#: includes/admin.php:476
+#: includes/admin.php:498
+#: includes/admin.php:520
+#: includes/admin.php:542
+#: includes/admin.php:564
+#: includes/admin.php:586
+#: includes/admin.php:608
+#: includes/admin.php:630
+#: includes/admin.php:652
+#: includes/admin.php:674
+#: includes/admin.php:696
+#: includes/admin.php:718
+#: includes/admin.php:740
+#: includes/admin.php:762
+#: includes/admin.php:784
+#: includes/admin.php:806
+#: includes/admin.php:828
+#: includes/admin.php:850
+#: includes/admin.php:872
+#: includes/admin.php:894
+#: includes/admin.php:916
+#: includes/admin.php:938
+#: includes/admin.php:960
+#: includes/admin.php:982
+#: includes/admin.php:1004
+#: includes/admin.php:1026
+#: includes/admin.php:1048
+#: includes/admin.php:1070
+#: includes/admin.php:1092
+#: includes/admin.php:1114
+#: includes/admin.php:1136
+#: includes/admin.php:1158
+#: includes/admin.php:1180
+#: includes/admin.php:1202
+#: includes/admin.php:1224
+#: includes/admin.php:1246
+#: includes/admin.php:1268
+#: includes/admin.php:1290
+#: includes/admin.php:1312
+#: includes/admin.php:1334
+#: includes/admin.php:1356
+#: includes/admin.php:1378
+#: includes/admin.php:1400
+#: includes/admin.php:1432
+msgid "New Page"
+msgstr ""
+
+#: includes/admin.php:59
+#: includes/admin.php:81
+#: includes/admin.php:103
+#: includes/admin.php:125
+#: includes/admin.php:147
+#: includes/admin.php:169
+#: includes/admin.php:191
+#: includes/admin.php:213
+#: includes/admin.php:235
+#: includes/admin.php:257
+#: includes/admin.php:279
+#: includes/admin.php:301
+#: includes/admin.php:323
+#: includes/admin.php:345
+#: includes/admin.php:367
+#: includes/admin.php:389
+#: includes/admin.php:411
+#: includes/admin.php:433
+#: includes/admin.php:455
+#: includes/admin.php:477
+#: includes/admin.php:499
+#: includes/admin.php:521
+#: includes/admin.php:543
+#: includes/admin.php:565
+#: includes/admin.php:587
+#: includes/admin.php:609
+#: includes/admin.php:631
+#: includes/admin.php:653
+#: includes/admin.php:675
+#: includes/admin.php:697
+#: includes/admin.php:719
+#: includes/admin.php:741
+#: includes/admin.php:763
+#: includes/admin.php:785
+#: includes/admin.php:807
+#: includes/admin.php:829
+#: includes/admin.php:851
+#: includes/admin.php:873
+#: includes/admin.php:895
+#: includes/admin.php:917
+#: includes/admin.php:939
+#: includes/admin.php:961
+#: includes/admin.php:983
+#: includes/admin.php:1005
+#: includes/admin.php:1027
+#: includes/admin.php:1049
+#: includes/admin.php:1071
+#: includes/admin.php:1093
+#: includes/admin.php:1115
+#: includes/admin.php:1137
+#: includes/admin.php:1159
+#: includes/admin.php:1181
+#: includes/admin.php:1203
+#: includes/admin.php:1225
+#: includes/admin.php:1247
+#: includes/admin.php:1269
+#: includes/admin.php:1291
+#: includes/admin.php:1313
+#: includes/admin.php:1335
+#: includes/admin.php:1357
+#: includes/admin.php:1379
+#: includes/admin.php:1401
+#: includes/admin.php:1433
+msgid "Modal / None"
+msgstr ""
+
+#: includes/admin.php:67
+msgid "ALLEGANY"
+msgstr ""
+
+#: includes/admin.php:89
+msgid "BRONX"
+msgstr ""
+
+#: includes/admin.php:111
+msgid "BROOME"
+msgstr ""
+
+#: includes/admin.php:133
+msgid "CATTARAUGUS"
+msgstr ""
+
+#: includes/admin.php:155
+msgid "CAYUGA"
+msgstr ""
+
+#: includes/admin.php:177
+msgid "CHAUTAUQUA"
+msgstr ""
+
+#: includes/admin.php:199
+msgid "CHEMUNG"
+msgstr ""
+
+#: includes/admin.php:221
+msgid "CHENANGO"
+msgstr ""
+
+#: includes/admin.php:243
+msgid "CLINTON"
+msgstr ""
+
+#: includes/admin.php:265
+msgid "COLUMBIA"
+msgstr ""
+
+#: includes/admin.php:287
+msgid "CORTLAND"
+msgstr ""
+
+#: includes/admin.php:309
+msgid "DELAWARE"
+msgstr ""
+
+#: includes/admin.php:331
+msgid "DUTCHESS"
+msgstr ""
+
+#: includes/admin.php:353
+msgid "ERIE"
+msgstr ""
+
+#: includes/admin.php:375
+msgid "ESSEX"
+msgstr ""
+
+#: includes/admin.php:397
+msgid "FRANKLIN"
+msgstr ""
+
+#: includes/admin.php:419
+msgid "FULTON"
+msgstr ""
+
+#: includes/admin.php:441
+msgid "GENESEE"
+msgstr ""
+
+#: includes/admin.php:463
+msgid "GREENE"
+msgstr ""
+
+#: includes/admin.php:485
+msgid "HAMILTON"
+msgstr ""
+
+#: includes/admin.php:507
+msgid "HERKIMER"
+msgstr ""
+
+#: includes/admin.php:529
+msgid "JEFFERSON"
+msgstr ""
+
+#: includes/admin.php:551
+msgid "KINGS"
+msgstr ""
+
+#: includes/admin.php:573
+msgid "LEWIS"
+msgstr ""
+
+#: includes/admin.php:595
+msgid "LIVINGSTON"
+msgstr ""
+
+#: includes/admin.php:617
+msgid "MADISON"
+msgstr ""
+
+#: includes/admin.php:639
+msgid "MONROE"
+msgstr ""
+
+#: includes/admin.php:661
+msgid "MONTGOMERY"
+msgstr ""
+
+#: includes/admin.php:683
+msgid "NASSAU"
+msgstr ""
+
+#: includes/admin.php:705
+msgid "NEW YORK"
+msgstr ""
+
+#: includes/admin.php:727
+msgid "NIAGARA"
+msgstr ""
+
+#: includes/admin.php:749
+msgid "ONEIDA"
+msgstr ""
+
+#: includes/admin.php:771
+msgid "ONONDAGA"
+msgstr ""
+
+#: includes/admin.php:793
+msgid "ONTARIO"
+msgstr ""
+
+#: includes/admin.php:815
+msgid "ORANGE"
+msgstr ""
+
+#: includes/admin.php:837
+msgid "ORLEANS"
+msgstr ""
+
+#: includes/admin.php:859
+msgid "OSWEGO"
+msgstr ""
+
+#: includes/admin.php:881
+msgid "OTSEGO"
+msgstr ""
+
+#: includes/admin.php:903
+msgid "PUTNAM"
+msgstr ""
+
+#: includes/admin.php:925
+msgid "QUEENS"
+msgstr ""
+
+#: includes/admin.php:947
+msgid "RENSSELAER"
+msgstr ""
+
+#: includes/admin.php:969
+msgid "RICHMOND"
+msgstr ""
+
+#: includes/admin.php:991
+msgid "ROCKLAND"
+msgstr ""
+
+#: includes/admin.php:1013
+msgid "ST. LAWRENCE"
+msgstr ""
+
+#: includes/admin.php:1035
+msgid "SARATOGA"
+msgstr ""
+
+#: includes/admin.php:1057
+msgid "SCHENECTADY"
+msgstr ""
+
+#: includes/admin.php:1079
+msgid "SCHOHARIE"
+msgstr ""
+
+#: includes/admin.php:1101
+msgid "SCHUYLER"
+msgstr ""
+
+#: includes/admin.php:1123
+msgid "SENECA"
+msgstr ""
+
+#: includes/admin.php:1145
+msgid "STEUBEN"
+msgstr ""
+
+#: includes/admin.php:1167
+msgid "SUFFOLK"
+msgstr ""
+
+#: includes/admin.php:1189
+msgid "SULLIVAN"
+msgstr ""
+
+#: includes/admin.php:1211
+msgid "TIOGA"
+msgstr ""
+
+#: includes/admin.php:1233
+msgid "TOMPKINS"
+msgstr ""
+
+#: includes/admin.php:1255
+msgid "ULSTER"
+msgstr ""
+
+#: includes/admin.php:1277
+msgid "WARREN"
+msgstr ""
+
+#: includes/admin.php:1299
+msgid "WASHINGTON"
+msgstr ""
+
+#: includes/admin.php:1321
+msgid "WAYNE"
+msgstr ""
+
+#: includes/admin.php:1343
+msgid "WESTCHESTER"
+msgstr ""
+
+#: includes/admin.php:1365
+msgid "WYOMING"
+msgstr ""
+
+#: includes/admin.php:1387
+msgid "YATES"
+msgstr ""
+
+#: includes/admin.php:1413
+msgid "Bulk Edit"
+msgstr ""
+
+#: includes/admin.php:1415
+msgid "COLORS"
+msgstr ""
+
+#: includes/admin.php:1422
+msgid ""
+"Note: Clicking this "
+"button will overwrite "
+"the colors of the entire "
+"map."
+msgstr ""
+
+#: includes/admin.php:1425
+msgid "LINK"
+msgstr ""
+
+#: includes/admin.php:1437
+msgid ""
+"Note: Clicking this "
+"button will overwrite "
+"the links of all the "
+"counties."
+msgstr ""
+
+#: includes/admin.php:1440
+msgid "INFO."
+msgstr ""
+
+#: includes/admin.php:1445
+msgid ""
+"Note: Clicking this "
+"button will overwrite "
+"the info. of all the "
+"counties."
+msgstr ""
+
+#: includes/admin.php:1458
+msgid "Restore Default"
+msgstr ""
